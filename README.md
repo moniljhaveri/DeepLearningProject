@@ -12,8 +12,8 @@ Useful resources:
   * https://classroom.udacity.com/courses/ud600/lessons/4676850295/concepts/46733448110923
 * Generative adversarial nets:
   * https://arxiv.org/pdf/1406.2661v1.pdf
-* 
-  * 
+* __Deep trafic__:
+  * http://selfdrivingcars.mit.edu/deeptraffic/
 * 
   * 
 * 
