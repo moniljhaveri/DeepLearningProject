@@ -8,3 +8,15 @@ Useful resources:
   * https://www.youtube.com/watch?v=oPGVsoBonLM
 * __Train AI to play games__
   * https://gym.openai.com/envs
+* Udacity: Intro to RL
+  * https://classroom.udacity.com/courses/ud600/lessons/4676850295/concepts/46733448110923
+* 
+  * 
+* 
+  * 
+* 
+  * 
+* 
+  * 
+* 
+  * 
