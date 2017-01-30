@@ -6,5 +6,5 @@ Useful resources:
   * https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0#.5bhp768te
 * John Schulman 2: Deep Reinforcement Learning:
   * https://www.youtube.com/watch?v=oPGVsoBonLM
-* __ Train AI to play games __
+* __Train AI to play games__
   * https://gym.openai.com/envs
