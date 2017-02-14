@@ -6,16 +6,16 @@ Useful resources:
   * https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0#.5bhp768te
 * John Schulman 2: Deep Reinforcement Learning:
   * https://www.youtube.com/watch?v=oPGVsoBonLM
-* __Train AI to play games__
+* Train AI to play games
   * https://gym.openai.com/envs
 * Udacity: Intro to RL
   * https://classroom.udacity.com/courses/ud600/lessons/4676850295/concepts/46733448110923
 * Generative adversarial nets:
   * https://arxiv.org/pdf/1406.2661v1.pdf
-* __Deep trafic__:
+* Deep trafic:
   * http://selfdrivingcars.mit.edu/deeptraffic/
-* 
-  * 
+* Set up deep learning instance on AWS
+  * https://aws.amazon.com/blogs/amazon-ai/the-aws-deep-learning-ami-now-with-ubuntu/
 * 
   * 
 * 
