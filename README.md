@@ -10,13 +10,11 @@ Useful resources:
   * https://gym.openai.com/envs
 * Udacity: Intro to RL
   * https://classroom.udacity.com/courses/ud600/lessons/4676850295/concepts/46733448110923
-* Generative adversarial nets:
-  * https://arxiv.org/pdf/1406.2661v1.pdf
 * Deep trafic:
   * http://selfdrivingcars.mit.edu/deeptraffic/
 * Set up deep learning instance on AWS
   * https://aws.amazon.com/blogs/amazon-ai/the-aws-deep-learning-ami-now-with-ubuntu/
-* 
-  * 
-* 
-  * 
+* Policy Gradient Tutorial with TensorFlow (Inverted Pendulum)
+  * https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-2-ded33892c724#.wtye9zhxr
+* Doom Tutorial with TensorFlow (More advanced policy gradient called actor-critic)
+  * https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2#.g4oai1sa0
