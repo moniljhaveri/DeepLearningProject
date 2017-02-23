@@ -1,6 +1,5 @@
 # Deep Learning Project
-Direct tutorials on projects:
-* Pong:
+* Direct tutorials on projects:
   * Deep Reinforcement Learning: Pong from Pixels: 
     * http://karpathy.github.io/2016/05/31/rl/
   * Write an AI to win at Pong from scratch with Reinforcement Learning: 
