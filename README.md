@@ -41,6 +41,7 @@
       * http://cs231n.stanford.edu/reports2016/116_Report.pdf
     * Tetris:
       * http://cs231n.stanford.edu/reports2016/121_Report.pdf
-      
+
+* Papers:
   * Policy Gradient using Value functions
-   * https://arxiv.org/pdf/1506.02438.pdf
+    * https://arxiv.org/pdf/1506.02438.pdf
