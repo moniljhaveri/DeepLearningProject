@@ -24,3 +24,20 @@
 * Enviroment setup:
   * Set up deep learning instance on AWS
     * https://aws.amazon.com/blogs/amazon-ai/the-aws-deep-learning-ami-now-with-ubuntu/
+
+* Stanford CN231 projects:
+  * Game:
+    * Driving:
+      * http://cs231n.stanford.edu/reports2016/100_Report.pdf
+      * http://cs231n.stanford.edu/reports2016/102_Report.pdf
+      * http://cs231n.stanford.edu/reports2016/123_Report.pdf
+    * Gomoku (CNN & RNN):
+      * http://cs231n.stanford.edu/reports2016/109_Report.pdf
+    * Flappy bird:
+      * http://cs231n.stanford.edu/reports2016/111_Report.pdf
+    * Supersmash brother:
+      * http://cs231n.stanford.edu/reports2016/113_Report.pdf
+    * Pong and Breakout:
+      * http://cs231n.stanford.edu/reports2016/116_Report.pdf
+    * Tetris:
+      * http://cs231n.stanford.edu/reports2016/121_Report.pdf
