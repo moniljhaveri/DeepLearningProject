@@ -15,6 +15,8 @@
       * https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2#.g4oai1sa0
 
 * Reinforcement learning tutorial:
+  * Police gradient:
+    * http://home.deib.polimi.it/restelli/MyWebSite/pdf/rl7.pdf
   * John Schulman 2: Deep Reinforcement Learning:
     * https://www.youtube.com/watch?v=oPGVsoBonLM
   * Udacity: Intro to RL
