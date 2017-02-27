@@ -1,3 +1,6 @@
+# Project proposal link:
+https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/edit?ts=58b1de68#heading=h.w6zcozas85jc
+
 # Deep Learning Project
 * Direct tutorials on projects:
   * Deep Q Network (DQN):
@@ -32,6 +35,8 @@
     * https://gym.openai.com/envs
   * Set up deep learning instance on AWS
     * https://aws.amazon.com/blogs/amazon-ai/the-aws-deep-learning-ami-now-with-ubuntu/
+  * Transferring Files between your laptop and Amazon instance
+    * http://angus.readthedocs.io/en/2014/amazon/transfer-files-between-instance.html
 
 * Stanford CN231 projects:
   * Game:
