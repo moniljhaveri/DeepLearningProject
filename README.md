@@ -52,8 +52,8 @@
     * https://arxiv.org/pdf/1506.02438.pdf
   * Playing Atari with Deep Reinforcement Learning
     * https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
-  * 
-    * 
+  * Human-level control through deep reinforcement learning
+    * http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html
   * 
     * 
   * 
