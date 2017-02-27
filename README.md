@@ -5,7 +5,7 @@
       * http://karpathy.github.io/2016/05/31/rl/
     * Write an AI to win at Pong from scratch with Reinforcement Learning: 
       * https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0#.5bhp768te
-    * Deep-Q learning Pong with Tensorflow and PyGame:
+    * Deep-Q learning Pong with Tensorflow and PyGame (only work with python 2.7):
       * http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html
   * Inverted Pendulum:
     * Policy Gradient Tutorial with TensorFlow (Inverted Pendulum game)
