@@ -5,7 +5,7 @@
       * http://karpathy.github.io/2016/05/31/rl/
     * Write an AI to win at Pong from scratch with Reinforcement Learning: 
       * https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0#.5bhp768te
-    * Deep-Q learning Pong with Tensorflow and PyGame (only work with python 2.7):
+    * Deep-Q learning Pong with Tensorflow and PyGame:
       * http://www.danielslater.net/2016/03/deep-q-learning-pong-with-tensorflow.html
   * Inverted Pendulum:
     * Policy Gradient Tutorial with TensorFlow (Inverted Pendulum game)
@@ -15,8 +15,6 @@
       * https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2#.g4oai1sa0
 
 * Reinforcement learning tutorial:
-  * Police gradient:
-    * http://home.deib.polimi.it/restelli/MyWebSite/pdf/rl7.pdf
   * John Schulman 2: Deep Reinforcement Learning:
     * https://www.youtube.com/watch?v=oPGVsoBonLM
   * Udacity: Intro to RL
@@ -50,10 +48,10 @@
 * Papers:
   * Policy Gradient using Value functions
     * https://arxiv.org/pdf/1506.02438.pdf
-  * Playing Atari with Deep Reinforcement Learning
-    * https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
   * Human-level control through deep reinforcement learning
     * http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html
+  * 
+    * 
   * 
     * 
   * 
