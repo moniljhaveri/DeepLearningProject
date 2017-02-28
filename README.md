@@ -1,5 +1,5 @@
 # Project proposal link:
-https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/edit?ts=58b1de68#heading=h.w6zcozas85jc
+https://docs.google.com/document/d/1BVOyIzLrDsQAd5F0O-HABQ-nHsb-cpxql0rMhs5z5Ao/edit#
 
 # Deep Learning Project
 * Direct tutorials on projects:
