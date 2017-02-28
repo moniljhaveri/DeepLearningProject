@@ -69,7 +69,3 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
       * http://cs231n.stanford.edu/reports2016/111_Report.pdf
     * Supersmash brother:
       * http://cs231n.stanford.edu/reports2016/113_Report.pdf
-    * Pong and Breakout:
-      * http://cs231n.stanford.edu/reports2016/116_Report.pdf
-    * Tetris:
-      * http://cs231n.stanford.edu/reports2016/121_Report.pdf
