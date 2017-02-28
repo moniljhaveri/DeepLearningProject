@@ -1,4 +1,8 @@
 #### I am in the progress of converting paper and websites to PDF, please check my folder for PDFs
+#### Notations: 
+  * PG: policy gradient
+  * QL: Q-learning
+  * AC: actor critic
 
 ## Project proposal link:
 https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/edit?ts=58b1de68#heading=h.w6zcozas85jc
