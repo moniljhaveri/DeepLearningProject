@@ -25,10 +25,14 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
         * https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2#.g4oai1sa0
 
 * Reinforcement learning tutorial:
+  * RL using tensorflow from MIT:
+    * https://github.com/yukezhu/tensorflow-reinforce
   * John Schulman 2: Deep Reinforcement Learning:
     * https://www.youtube.com/watch?v=oPGVsoBonLM
   * Deep Q learning @ Nervana:
     * https://www.nervanasys.com/demystifying-deep-reinforcement-learning/
+  * Simple Reinforcement Learning with Tensorflow
+    * https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.624ebar6o
     
 * Enviroment setup:
   * Train AI to play games
@@ -56,7 +60,11 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
       * http://cs231n.stanford.edu/reports2016/121_Report.pdf
 
 * Papers:
-  * Policy Gradient using Value functions
+  * High dimention continous contril using advantage estimation
     * https://arxiv.org/pdf/1506.02438.pdf
   * Human-level control through deep reinforcement learning
     * http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html
+  * Policy Gradient Methods for Reinforcement Learning with Function Approximation
+    * https://webdocs.cs.ualberta.ca/~sutton/papers/SMSM-NIPS99.pdf
+  * Gradient Estimation Using Stochastic Computation Graphs
+    * https://arxiv.org/pdf/1506.05254.pdf
