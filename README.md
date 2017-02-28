@@ -1,3 +1,5 @@
+### I am in the progress of converting paper and websites to PDF, please check my folder for PDFs
+
 # Project proposal link:
 https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/edit?ts=58b1de68#heading=h.w6zcozas85jc
 
@@ -60,11 +62,11 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
       * http://cs231n.stanford.edu/reports2016/121_Report.pdf
 
 * Papers:
-  * High dimention continous contril using advantage estimation
+  * PG: High dimention continous contril using advantage estimation
     * https://arxiv.org/pdf/1506.02438.pdf
-  * Human-level control through deep reinforcement learning
+  * QL: Human-level control through deep reinforcement learning
     * http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html
-  * Policy Gradient Methods for Reinforcement Learning with Function Approximation
+  * PG: Policy Gradient Methods for Reinforcement Learning with Function Approximation
     * https://webdocs.cs.ualberta.ca/~sutton/papers/SMSM-NIPS99.pdf
-  * Gradient Estimation Using Stochastic Computation Graphs
+  * PG: Gradient Estimation Using Stochastic Computation Graphs
     * https://arxiv.org/pdf/1506.05254.pdf
