@@ -56,18 +56,3 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
     * https://aws.amazon.com/blogs/amazon-ai/the-aws-deep-learning-ami-now-with-ubuntu/
   * Transferring Files between your laptop and Amazon instance
     * http://angus.readthedocs.io/en/2014/amazon/transfer-files-between-instance.html
-
-## Stanford CN231 projects:
-  * Game:
-    * Driving:
-      * http://cs231n.stanford.edu/reports2016/100_Report.pdf
-      * http://cs231n.stanford.edu/reports2016/102_Report.pdf
-      * http://cs231n.stanford.edu/reports2016/123_Report.pdf
-    * Gomoku (CNN & RNN):
-      * http://cs231n.stanford.edu/reports2016/109_Report.pdf
-    * Flappy bird:
-      * http://cs231n.stanford.edu/reports2016/111_Report.pdf
-    * Supersmash brother:
-      * http://cs231n.stanford.edu/reports2016/113_Report.pdf
-    * Pong and Breakout:
-      * http://cs231n.stanford.edu/reports2016/116_Report.pdf
