@@ -14,7 +14,7 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
     * Pong:
       * Deep Reinforcement Learning: Pong from Pixels: 
         * http://karpathy.github.io/2016/05/31/rl/
-      * Write an AI to win at Pong from scratch with Reinforcement Learning: 
+      * Write an AI to win at Pong from scratch with Reinforcement Learning (PDF version in Gordon's notes folder): 
         * https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0#.5bhp768te
     * Inverted Pendulum:
       * Policy Gradient Tutorial with TensorFlow (Inverted Pendulum game)
@@ -27,7 +27,7 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
 * Reinforcement learning tutorial:
   * RL using tensorflow from MIT:
     * https://github.com/yukezhu/tensorflow-reinforce
-  * John Schulman 2: Deep Reinforcement Learning:
+  * John Schulman 2: Deep Reinforcement Learning (PDF version in Gordon's notes folder):
     * https://www.youtube.com/watch?v=oPGVsoBonLM
   * Deep Q learning @ Nervana:
     * https://www.nervanasys.com/demystifying-deep-reinforcement-learning/
