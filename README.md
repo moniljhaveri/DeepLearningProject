@@ -40,8 +40,6 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
     * https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.624ebar6o
   * MIT deep trafic course:
     * https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf
-  * Practical side of train DQN, Mnih:
-    * https://www.youtube.com/watch?v=9sx1_u2qVhQ
 
 ## Papers:
   * PG: High dimention continous contril using advantage estimation
@@ -52,8 +50,11 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
     * https://webdocs.cs.ualberta.ca/~sutton/papers/SMSM-NIPS99.pdf
   * PG: Gradient Estimation Using Stochastic Computation Graphs
     * https://arxiv.org/pdf/1506.05254.pdf
-  * Playing Atari with Deep Reinforcement Learning
+  * QL: Playing Atari with Deep Reinforcement Learning
     * https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
+  * QL,AC: Asynchronous Methods for Deep Reinforcement Learning
+    * https://arxiv.org/pdf/1602.01783.pdf
+    * Youtube: https://www.youtube.com/watch?v=9sx1_u2qVhQ
     
 ## Enviroment setup:
   * Train AI to play games
