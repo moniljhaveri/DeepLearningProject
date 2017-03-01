@@ -1,9 +1,15 @@
-#### I am in the progress of converting paper and websites to PDF, please check my folder for PDFs
+|     When     |     What     |     Who     |     How     |
+|--------------|--------------|-------------|-------------|
+| 3/9 | Code PG | Gordon | Set up AWS, install library, try Numpy version, then TF |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
 #### Notations: 
   * PG: policy gradient
   * QL: Q-learning
   * AC: actor critic
-  * DDPG: Deep Deterministic Policy Gradient
+  * DDPG: deep deterministic policy gradient
 
 ## Project proposal link:
 https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/edit?ts=58b1de68#heading=h.w6zcozas85jc
@@ -73,3 +79,4 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
     * https://aws.amazon.com/blogs/amazon-ai/the-aws-deep-learning-ami-now-with-ubuntu/
   * Transferring Files between your laptop and Amazon instance
     * http://angus.readthedocs.io/en/2014/amazon/transfer-files-between-instance.html
+    
