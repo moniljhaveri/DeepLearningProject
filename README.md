@@ -1,3 +1,9 @@
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
 #### Notations: 
   * PG: policy gradient
   * QL: Q-learning
