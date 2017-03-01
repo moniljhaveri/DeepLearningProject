@@ -48,6 +48,8 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
     * https://webdocs.cs.ualberta.ca/~sutton/papers/SMSM-NIPS99.pdf
   * PG: Gradient Estimation Using Stochastic Computation Graphs
     * https://arxiv.org/pdf/1506.05254.pdf
+  * Playing Atari with Deep Reinforcement Learning
+    * https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
     
 ## Enviroment setup:
   * Train AI to play games
