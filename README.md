@@ -1,8 +1,9 @@
 |     When     |     What     |     Who     |     How     |
 |--------------|--------------|-------------|-------------|
-|              |              |             |             |
-|              |              |             |             |
-|              |              |             |             |
+| 3/9 | Code PG | Gordon | Set up AWS, install library, try Numpy version, then TF |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 #### Notations: 
   * PG: policy gradient
