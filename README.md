@@ -38,6 +38,8 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
     * https://www.nervanasys.com/demystifying-deep-reinforcement-learning/
   * Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks
     * https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.624ebar6o
+  * MIT deep trafic course:
+    * https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf
 
 ## Papers:
   * PG: High dimention continous contril using advantage estimation
