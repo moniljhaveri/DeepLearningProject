@@ -1,8 +1,15 @@
-#### I am in the progress of converting paper and websites to PDF, please check my folder for PDFs
+|     When     |     What     |     Who     |     How     |
+|--------------|--------------|-------------|-------------|
+| 3/9 | Code PG | Gordon | Set up AWS, install library, try Numpy version, then TF |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
 #### Notations: 
   * PG: policy gradient
   * QL: Q-learning
   * AC: actor critic
+  * DDPG: deep deterministic policy gradient
 
 ## Project proposal link:
 https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/edit?ts=58b1de68#heading=h.w6zcozas85jc
@@ -28,6 +35,13 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
     * Doom:
       * Doom Tutorial with TensorFlow (More advanced policy gradient called actor-critic)
         * https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2#.g4oai1sa0
+  * Deep Deterministic Policy Gradient (Continuous control, off-policy, actor-critic)
+    * Inverted Pendulum:
+      * Tutorial with OpenAI, TensorFlow, and tflearn
+        * http://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html
+    * TORCS (Driving Game):
+      * Tutorial with TORCS, Keras, and TensorFlow
+        * https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html
 
 ## Reinforcement learning tutorial:
   * RL using tensorflow from MIT:
@@ -55,6 +69,8 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
   * QL,AC: Asynchronous Methods for Deep Reinforcement Learning
     * https://arxiv.org/pdf/1602.01783.pdf
     * Youtube: https://www.youtube.com/watch?v=9sx1_u2qVhQ
+  * DDPG: Deep Deterministic Policy Gradient(Continous control, off-policy actor-critic)
+    * https://arxiv.org/pdf/1509.02971v2.pdf
     
 ## Enviroment setup:
   * Train AI to play games
@@ -63,3 +79,4 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
     * https://aws.amazon.com/blogs/amazon-ai/the-aws-deep-learning-ami-now-with-ubuntu/
   * Transferring Files between your laptop and Amazon instance
     * http://angus.readthedocs.io/en/2014/amazon/transfer-files-between-instance.html
+    
