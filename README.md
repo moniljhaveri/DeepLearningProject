@@ -1,5 +1,5 @@
 |     When     |     What     |     Who     |     How     |  Issues  |
-|--------------|--------------|-------------|-------------|   |
+|--------------|--------------|-------------|-------------|-------------|
 | 3/9 | Code PG | Gordon | Run other's TF version of Pong |
 | 3/25 | Code PG | Gordon | Finish Keras version of Pong | Libraries' compatability and more |
 | Before 4/4 | Code DQN | Someone | Finish a version of Pong |   |
