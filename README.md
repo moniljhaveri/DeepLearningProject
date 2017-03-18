@@ -1,9 +1,9 @@
 |     When     |     What     |     Who     |     How     |
 |--------------|--------------|-------------|-------------|
-| 3/9 | Code PG | Gordon | Set up AWS, install library, try Numpy version, then TF |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 3/9 | Code PG | Gordon | Run other's TF version of Pong |
+| 3/25 | Code PG | Gordon | Finish Keras version of Pong |
+| 4/4 | Progress report | All | Have untuned version of both PG and DQN ready |
+| 5/2 | Final report & presentation  | All | Check Syllabus |
 
 #### Notations: 
   * PG: policy gradient
