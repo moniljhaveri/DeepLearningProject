@@ -1,8 +1,18 @@
-|     When     |     What     |     Who     |     How     |
-|--------------|--------------|-------------|-------------|
+|     When     |     What     |     Who     |     How     |  Issues  |
+|--------------|--------------|-------------|-------------|-------------|
 | 3/9 | Code PG | Gordon | Run other's TF version of Pong |
-| 3/25 | Code PG | Gordon | Finish Keras version of Pong |
+| 3/25 | Code PG | Gordon | Finish Keras version of Pong | Libraries' compatability and more |
+| Before 4/4 | Code DQN | Someone | Finish a version of Pong |   |
+| 4/4 | Visualize game | Someone | Enable live demo of trained model | File I/O format |
 | 4/4 | Progress report | All | Have untuned version of both PG and DQN ready |
+|  | Code DDPG |  |  |
+|  | Tuning Pong for PG | Gordon | Use CNN, implement early stopping | OpenCV |
+|  | Tuning Pong for DQN |  |  |
+|  | Tuning Pong for DDPG |  |  |
+|  | Tuning Breakout for PG | Gordon |  |
+|  | Tuning Breakout for DQN |  |  |
+|  | Tuning Breakout for DDPG |  |  |
+|  | Try on other games | Gordon |  |
 | 5/2 | Final report & presentation  | All | Check Syllabus |
 
 #### Notations: 
