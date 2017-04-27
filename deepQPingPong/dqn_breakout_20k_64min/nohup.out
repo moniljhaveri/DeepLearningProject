@@ -1,0 +1,146 @@
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[2017-04-26 17:00:05,626] Making new env: BreakOut-v0
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/gym/envs/registration.py", line 137, in spec
+    return self.env_specs[id]
+KeyError: 'BreakOut-v0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "dqn_break_out.py", line 259, in <module>
+    main()
+  File "dqn_break_out.py", line 204, in main
+    env = gym.make('BreakOut-v0')
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/gym/envs/registration.py", line 161, in make
+    return registry.make(id)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/gym/envs/registration.py", line 118, in make
+    spec = self.spec(id)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/gym/envs/registration.py", line 147, in spec
+    raise error.UnregisteredEnv('No registered env with id: {}'.format(id))
+gym.error.UnregisteredEnv: No registered env with id: BreakOut-v0
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+[2017-04-26 17:02:09,045] Making new env: Breakout-v0
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: GRID K520
+major: 3 minor: 0 memoryClockRate (GHz) 0.797
+pciBusID 0000:00:03.0
+Total memory: 3.94GiB
+Free memory: 3.91GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/client/session.py", line 1022, in _do_call
+    return fn(*args)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/client/session.py", line 1000, in _run_fn
+    self._extend_graph()
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/client/session.py", line 1049, in _extend_graph
+    self._session, graph_def.SerializeToString(), status)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/contextlib.py", line 89, in __exit__
+    next(self.gen)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/framework/errors_impl.py", line 466, in raise_exception_on_not_ok_status
+    pywrap_tensorflow.TF_GetCode(status))
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Cannot assign a device to node 'fully_connected_1/biases/Adam_1': Could not satisfy explicit device specification '/device:GPU:1' because no devices matching that specification are registered in this process; available devices: /job:localhost/replica:0/task:0/cpu:0, /job:localhost/replica:0/task:0/gpu:0
+Colocation Debug Info:
+Colocation group had the following types and devices: 
+ApplyAdam: GPU CPU 
+Const: GPU CPU 
+Assign: GPU CPU 
+Identity: GPU CPU 
+VariableV2: GPU CPU 
+	 [[Node: fully_connected_1/biases/Adam_1 = VariableV2[_class=["loc:@fully_connected_1/biases"], container="", dtype=DT_FLOAT, shape=[6], shared_name="", _device="/device:GPU:1"]()]]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "dqn_break_out.py", line 259, in <module>
+    main()
+  File "dqn_break_out.py", line 211, in main
+    sess.run(tf.global_variables_initializer())
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/client/session.py", line 767, in run
+    run_metadata_ptr)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/client/session.py", line 965, in _run
+    feed_dict_string, options, run_metadata)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/client/session.py", line 1015, in _do_run
+    target_list, options, run_metadata)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/client/session.py", line 1035, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Cannot assign a device to node 'fully_connected_1/biases/Adam_1': Could not satisfy explicit device specification '/device:GPU:1' because no devices matching that specification are registered in this process; available devices: /job:localhost/replica:0/task:0/cpu:0, /job:localhost/replica:0/task:0/gpu:0
+Colocation Debug Info:
+Colocation group had the following types and devices: 
+ApplyAdam: GPU CPU 
+Const: GPU CPU 
+Assign: GPU CPU 
+Identity: GPU CPU 
+VariableV2: GPU CPU 
+	 [[Node: fully_connected_1/biases/Adam_1 = VariableV2[_class=["loc:@fully_connected_1/biases"], container="", dtype=DT_FLOAT, shape=[6], shared_name="", _device="/device:GPU:1"]()]]
+
+Caused by op 'fully_connected_1/biases/Adam_1', defined at:
+  File "dqn_break_out.py", line 259, in <module>
+    main()
+  File "dqn_break_out.py", line 210, in main
+    agent = DQNAgent(state_size, action_size)
+  File "dqn_break_out.py", line 96, in __init__
+    self.train_op = self.optimizer.minimize(self.loss, global_step=tf.contrib.framework.get_global_step())
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/training/optimizer.py", line 289, in minimize
+    name=name)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/training/optimizer.py", line 403, in apply_gradients
+    self._create_slots(var_list)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/training/adam.py", line 118, in _create_slots
+    self._zeros_slot(v, "v", self._name)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/training/optimizer.py", line 647, in _zeros_slot
+    named_slots[var] = slot_creator.create_zeros_slot(var, op_name)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/training/slot_creator.py", line 123, in create_zeros_slot
+    colocate_with_primary=colocate_with_primary)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/training/slot_creator.py", line 101, in create_slot
+    return _create_slot_var(primary, val, '')
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/training/slot_creator.py", line 55, in _create_slot_var
+    slot = variable_scope.get_variable(scope, initializer=val, trainable=False)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/ops/variable_scope.py", line 988, in get_variable
+    custom_getter=custom_getter)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/ops/variable_scope.py", line 890, in get_variable
+    custom_getter=custom_getter)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/ops/variable_scope.py", line 348, in get_variable
+    validate_shape=validate_shape)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/ops/variable_scope.py", line 333, in _true_getter
+    caching_device=caching_device, validate_shape=validate_shape)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/ops/variable_scope.py", line 684, in _get_single_variable
+    validate_shape=validate_shape)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/ops/variables.py", line 197, in __init__
+    expected_shape=expected_shape)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/ops/variables.py", line 293, in _init_from_args
+    name=name)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/ops/state_ops.py", line 128, in variable_op_v2
+    shared_name=shared_name)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/ops/gen_state_ops.py", line 708, in _variable_v2
+    name=name)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py", line 763, in apply_op
+    op_def=op_def)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 2327, in create_op
+    original_op=self._default_original_op, op_def=op_def)
+  File "/home/ubuntu/anaconda3/envs/DeepLearning2/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 1226, in __init__
+    self._traceback = _extract_stack()
+
+InvalidArgumentError (see above for traceback): Cannot assign a device to node 'fully_connected_1/biases/Adam_1': Could not satisfy explicit device specification '/device:GPU:1' because no devices matching that specification are registered in this process; available devices: /job:localhost/replica:0/task:0/cpu:0, /job:localhost/replica:0/task:0/gpu:0
+Colocation Debug Info:
+Colocation group had the following types and devices: 
+ApplyAdam: GPU CPU 
+Const: GPU CPU 
+Assign: GPU CPU 
+Identity: GPU CPU 
+VariableV2: GPU CPU 
+	 [[Node: fully_connected_1/biases/Adam_1 = VariableV2[_class=["loc:@fully_connected_1/biases"], container="", dtype=DT_FLOAT, shape=[6], shared_name="", _device="/device:GPU:1"]()]]
+

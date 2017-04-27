@@ -1,0 +1,53 @@
+
+episode: 0/20000, score: -21.0, loss: 0
+episode: 1/20000, score: -20.0, loss: 922.3501937687397
+episode: 0/20000, score: -20.0, loss: 0
+episode: 0/20000, score: -21.0, loss: 0.0
+episode: 0/20000, score: -21.0, loss: 0.0
+episode: 0/20000, score: -19.0, loss: 0.0
+episode: 0/20000, score: -21.0, loss: 0.0
+episode: 0/20000, score: -21.0, loss: 0.0
+episode: 0/20000, score: -20.0, loss: 0.0
+episode: 0/20000, score: -19.0, loss: 0.0
+episode: 0/20000, score: -19.0, loss: 0.0
+episode: 0/20000, score: -20.0, loss: 0.0
+episode: 0/20000, score: -20.0, loss: 0.0
+episode: 0/20000, score: -21.0, loss: 0.0
+episode: 0/20000, score: -19.0, loss: 0.0
+episode: 0/20000, score: -21.0, loss: 0.0
+episode: 0/20000, score: -20.0, loss: 0.0
+episode: 0/20000, score: -19.0, loss: 0.0
+episode: 0/20000, score: -21.0, loss: 0.0
+episode: 0/20000, score: -18.0, loss: 0.0
+episode: 0/20000, score: -21.0, loss: 0.0
+episode: 0/20000, score: -21.0, loss: 0.0
+episode: 0/20000, score: -20.0, loss: 0.0
+episode: 0/20000, score: -21.0, loss: 0.0
+episode: 0/20000, score: -21.0, loss: 0.0
+episode: 0/20000, score: -18.0, loss: 0.0
+episode: 0/20000, score: -21.0, loss: 0.0
+episode: 0/20000, score: -20.0, loss: 0.0
+episode: 0/20000, score: -18.0, loss: 0.0
+episode: 0/20000, score: -20.0, loss: 0.0
+episode: 0/20000, score: -21.0, loss: 0.0
+episode: 0/20000, score: -20.0, loss: 0.0
+episode: 0/20000, score: -20.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0)
+episode: 0/20000, score: -20.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0)
+episode: 0/20000, score: -20.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0)
+episode: 0/20000, score: -18.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0)
+episode: 0/20000, score: -20.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0)
+episode: 0/20000, score: -21.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0)
+episode: 0/20000, score: -20.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0)
+episode: 0/20000, score: -21.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0)
+episode: 0/20000, score: -20.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0)
+episode: 0/20000, score: -20.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0)
+episode: 1/20000, score: -21.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0) 
+episode: 2/20000, score: -21.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0) 
+episode: 3/20000, score: -21.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0) 
+episode: 4/20000, score: -21.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0) 
+episode: 5/20000, score: -21.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0)
+episode: 0/20000, score: -1.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0)
+episode: 0/20000, score: -20.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0)
+episode: 0/20000, score: -20.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0)
+episode: 1/20000, score: -21.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0)
+episode: 0/20000, score: -20.0, loss: Tensor("Mean:0", shape=(), dtype=float32, device=/device:CPU:0)
