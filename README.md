@@ -1,5 +1,5 @@
 #### Description:
-This team project explores three different deep reinforcement learning methods: deep Q network, policy gradient and deep deterministic policy gradient. This repo only contains policy gradient part.
+This team project explores three different deep reinforcement learning methods: deep Q network, policy gradient and deep deterministic policy gradient. 
 
 #### Team member:
 * Zhe Cai
