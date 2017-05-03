@@ -1,19 +1,11 @@
-|     When     |     What     |     Who     |     How     |  Issues  |
-|--------------|--------------|-------------|-------------|-------------|
-| 3/9 | Code PG | Gordon | Run other's TF version of Pong |
-| 3/25 | Code PG | Gordon | Finish Keras version of Pong | Libraries' compatability and more |
-| Before 4/4 | Code DQN | Someone | Finish a version of Pong |   |
-| 4/4 | Visualize game | Someone | Enable live demo of trained model | File I/O format |
-| 4/4 | Progress report | All | Have untuned version of both PG and DQN ready |
-|  | Code DDPG |  |  |
-|  | Tuning Pong for PG | Gordon | Use CNN, implement early stopping | OpenCV |
-|  | Tuning Pong for DQN |  |  |
-|  | Tuning Pong for DDPG |  |  |
-|  | Tuning Breakout for PG | Gordon |  |
-|  | Tuning Breakout for DQN |  |  |
-|  | Tuning Breakout for DDPG |  |  |
-|  | Try on other games | Gordon |  |
-| 5/2 | Final report & presentation  | All | Check Syllabus |
+#### Description:
+This team project explores three different deep reinforcement learning methods: deep Q network, policy gradient and deep deterministic policy gradient. This repo only contains policy gradient part.
+
+#### Team member:
+* Zhe Cai
+* Silvia Ionescu
+* Monil Jhaveri
+* Andrew Levy
 
 #### Notations: 
   * PG: policy gradient
@@ -21,10 +13,7 @@
   * AC: actor critic
   * DDPG: deep deterministic policy gradient
 
-## Project proposal link:
-https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/edit?ts=58b1de68#heading=h.w6zcozas85jc
-
-## Blogs:
+#### Resources (internet):
   * Deep Q Network (DQN):
     * Pong:
       * Deep-Q learning Pong with Tensorflow and PyGame(2.7):
@@ -32,6 +21,10 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
     * Flappy bird:
       * DQN with Python 2.7, Keras and Pygame:
       * https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html
+    * Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks
+      * https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.624ebar6o
+    * General DQN:
+      * https://www.nervanasys.com/demystifying-deep-reinforcement-learning/
   * Policy gradient: 
     * Pong:
       * Deep Reinforcement Learning: Pong from Pixels: 
@@ -41,6 +34,8 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
     * Inverted Pendulum:
       * Policy Gradient Tutorial with TensorFlow (Inverted Pendulum game)
         * https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-2-ded33892c724#.wtye9zhxr
+    * John Schulman lecture:
+      * https://www.youtube.com/watch?v=oPGVsoBonLM
   * Actor-critic:
     * Doom:
       * Doom Tutorial with TensorFlow (More advanced policy gradient called actor-critic)
@@ -52,20 +47,10 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
     * TORCS (Driving Game):
       * Tutorial with TORCS, Keras, and TensorFlow
         * https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html
-
-## Reinforcement learning tutorial:
   * RL using tensorflow from MIT:
     * https://github.com/yukezhu/tensorflow-reinforce
-  * John Schulman 2: Deep Reinforcement Learning (PDF version in Gordon's notes folder):
-    * https://www.youtube.com/watch?v=oPGVsoBonLM
-  * Deep Q learning @ Nervana:
-    * https://www.nervanasys.com/demystifying-deep-reinforcement-learning/
-  * Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks
-    * https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.624ebar6o
-  * MIT deep trafic course:
-    * https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf
 
-## Papers:
+#### Resources (Papers):
   * PG: High dimention continous contril using advantage estimation
     * https://arxiv.org/pdf/1506.02438.pdf
   * QL: Human-level control through deep reinforcement learning
@@ -82,9 +67,10 @@ https://docs.google.com/document/d/1LU3ikULBXkj0MqdTu3RLhWoDaPYoqfrJldjGpZQ3w_E/
   * DDPG: Deep Deterministic Policy Gradient(Continous control, off-policy actor-critic)
     * https://arxiv.org/pdf/1509.02971v2.pdf
     
-## Enviroment setup:
-  * Train AI to play games
+#### Enviroment setup:
+  * OpenAI:
     * https://gym.openai.com/envs
+    * https://github.com/rybskej/atari-py
   * Set up deep learning instance on AWS
     * https://aws.amazon.com/blogs/amazon-ai/the-aws-deep-learning-ami-now-with-ubuntu/
   * Transferring Files between your laptop and Amazon instance
