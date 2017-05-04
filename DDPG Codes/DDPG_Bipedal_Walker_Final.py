@@ -117,7 +117,7 @@ def train(sess, env, actor, critic,RESTORE):
 
 
             # Take step with experimental action
-            s2, r, terminal, info = env.step(np.reshape(a.T,newshape=(4,)))
+            s2, r, terminal, info = env.step(np.reshape(a.T,newshape=(env.action_space.shape[0],)))
 
             # Add transition to replay buffer if not testing episode
             if i%100 is not 49 and i%100 is not 99:
