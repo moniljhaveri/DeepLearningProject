@@ -1,11 +1,5 @@
 #### Description:
-This team project explores three different deep reinforcement learning methods: deep Q networks, policy gradient, and deep deterministic policy gradient. 
-
-#### Team member:
-* Zhe Cai
-* Silvia Ionescu
-* Monil Jhaveri
-* Andrew Levy
+This team project explores three different deep reinforcement learning methods: deep Q networks, policy gradient, and deep deterministic policy gradient.  Each learning algorithm was evaluated on various simulated tasks that included Atari games and robotic control simulations.
 
 ### Dependencies
 Each of our algorithms uses OpenAI Gym to provide the simulated environments.  OpenAI gym can be installed here:
