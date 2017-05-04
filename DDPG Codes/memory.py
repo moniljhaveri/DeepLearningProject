@@ -5,6 +5,7 @@
 # Reference: https://github.com/pemami4911/deep-rl/tree/master/ddpg
 
 from collections import deque
+import numpy as np
 import random 
 
 class ReplayBuffer(object):
