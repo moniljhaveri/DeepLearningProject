@@ -2,9 +2,9 @@
 This team project explores three different deep reinforcement learning methods: deep Q networks, policy gradient, and deep deterministic policy gradient.  Each learning algorithm was evaluated on various simulated tasks that included Atari games and robotic control simulations.
 
 ### Dependencies
-Each of our algorithms uses OpenAI Gym to provide the simulated environments.  OpenAI gym can be installed here:
-https://github.com/openai/gym#installing-everything
-In order to simulate all of our games here, you will need to do a full install.
+Each of our algorithms uses OpenAI Gym to provide the simulated environments.  OpenAI gym can be installed at the link below.  A full install is required to use all of the environments.
+
+https://github.com/openai/gym#installing-everything.  
 
 ### Run Instruction
 
