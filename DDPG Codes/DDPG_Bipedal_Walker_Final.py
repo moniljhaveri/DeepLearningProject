@@ -65,8 +65,8 @@ TAU = 0.001
 # Environment Variables
 
 # Environment Name
-ENV_NAME = 'BipedalWalker-v2'
-
+# ENV_NAME = 'BipedalWalker-v2'
+ENV_NAME = 'MountainCarContinuous-v0'
 # Result storage locations
 MONITOR_DIR = './results/biped_restart_8/gym_ddpg'
 SUMMARY_DIR = './results/biped_restart_8/tf_ddpg'
