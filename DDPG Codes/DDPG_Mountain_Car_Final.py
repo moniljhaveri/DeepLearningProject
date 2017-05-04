@@ -4,8 +4,7 @@ uses four classes: random noise generator, replay buffer, and actor and critic n
 classes, the main loop runs the two-step learning cycle in which the agent (i) experiments with new actions and
 evaluates them and then (ii) improves behavior based on the success of the experimentation.
 
-The script is currently set to create a Bipedal Walker agent.  However, the "ENV" name variable can be changed begin 
-a different task.
+The script is currently set to create a Mountain Car agent. 
 """
 
 import tensorflow as tf
