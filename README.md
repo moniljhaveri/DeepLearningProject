@@ -11,6 +11,7 @@ https://github.com/openai/gym#installing-everything.
 #### DDPG:
 Run python DDPG_Mountain_Car_Final.py.  This will run the basic continuous MountainCar-v0 environment.
 
-#### DQN:
+#### DQN: 
+Run dqn_breakout.ipynb. This will run Breakout. 
 
 #### PG:
