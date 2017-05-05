@@ -1,0 +1,6 @@
+model_checkpoint_path: "Pong-DQN.ckpt-20200"
+all_model_checkpoint_paths: "Pong-DQN.ckpt-19400"
+all_model_checkpoint_paths: "Pong-DQN.ckpt-19600"
+all_model_checkpoint_paths: "Pong-DQN.ckpt-19800"
+all_model_checkpoint_paths: "Pong-DQN.ckpt-20000"
+all_model_checkpoint_paths: "Pong-DQN.ckpt-20200"
