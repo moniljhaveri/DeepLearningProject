@@ -15,4 +15,4 @@ Run python DDPG_Mountain_Car_Final.py.  This will run the basic continuous Mount
 Run dqn_breakout.ipynb. This will run Breakout. 
 
 #### PG:
-Run the jupyter notebook scripts in the policy gradient code folder, and the agent will automatically load the last check point, which is the final result of out trained agents.
+Run the jupyter notebook scripts in the policy gradient code folder, and the agent will automatically load the last check point, which is the final result of our trained agents.
